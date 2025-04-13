@@ -1,0 +1,4 @@
+[
+    {"id": 1, "price": 600, "date_sale": "2022-11-09T00:00:00", "id_stock": 1, "count": 1},
+    {"id": 2, "price": 500, "date_sale": "2022-11-08T00:00:00", "id_stock": 2, "count": 1}
+]
