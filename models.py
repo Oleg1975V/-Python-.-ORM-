@@ -98,4 +98,4 @@ class Sale(Base):
             f"stock_id={self.id_stock}, count={self.count})"
         )
 
-# <- Пустая строка в конце файла
+
